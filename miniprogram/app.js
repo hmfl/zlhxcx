@@ -13,7 +13,7 @@ App({
         traceUser: true,
       })
     }
-    console.log('88888888888启动程序了....');
+    console.log('88888888888启动程序了9999....');
     wx.requestSubscribeMessage({
       tmplIds: ['e8caQIT7w2Z4bPXPwchNsXmoeb-Gmjlvh5RRFiRrH7g'],
       success (res) { 
